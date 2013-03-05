@@ -3,7 +3,7 @@
 
   <groupId>com.michaelalynmiller</groupId>
   <artifactId>jnaplatext</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>JNAPlatExt</name>
