@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE suppressions PUBLIC
+    "-//Puppy Crawl//DTD Suppressions 1.0//EN"
+    "http://www.puppycrawl.com/dtds/suppressions_1_0.dtd">
+
+<suppressions>
+	<suppress
+		checks="InterfaceIsType"
+		files="(Kernel32|ProcessUtils|User32|WinUser)\.java" />
+	<suppress
+		checks="MethodName"
+		files="(Kernel32|ProcessUtils|User32|WinUser)\.java" />
+	<suppress
+		checks="ParameterName"
+		files="(Kernel32|ProcessUtils|User32|WinUser)\.java" />
+	<suppress
+		checks="ParameterNumber"
+		files="(Kernel32|ProcessUtils|User32|WinUser)\.java" />
+	<suppress
+		checks="VisibilityModifier"
+		files="(Kernel32|ProcessUtils|User32|WinUser)\.java" />
+</suppressions>
